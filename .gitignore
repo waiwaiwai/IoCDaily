@@ -1,0 +1,7 @@
+nenv/
+venv/
+__pycache__/
+*.pyc
+ioc_store.sqlite
+fetcher.log
+out/*.xlsx
